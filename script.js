@@ -55,14 +55,14 @@ const chatbots = [
         link: "https://chatbot-vagner.vercel.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "Descrição da IA atua como um amigo, permitindo que você desabafe, oferecendo orientações para aumentar sua autoconfiança, ajudar a lidar com estresse, superar as inseguranças dos adolescentes e sugerir busca por apoio profissional.",
-        link: "https://scintillating-entremet-bf3f05.netlify.app/" 
+        nome: "Nome do Bot",
+        descricao: "Descrição .",
+        link: "https://vitrine-chatbots.vercel.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "Descrição da IA atua como um amigo, permitindo que você desabafe, oferecendo orientações para aumentar sua autoconfiança, ajudar a lidar com estresse, superar as inseguranças dos adolescentes e sugerir busca por apoio profissional.",
-        link: "https://scintillating-entremet-bf3f05.netlify.app/" 
+        nome: "Nome do Bot",
+        descricao: "Descrição .",
+        link: "https://vitrine-chatbots.vercel.app/" 
     }
     // Adicione os dados de outros chatbots aqui...
 ];
