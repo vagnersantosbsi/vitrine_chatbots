@@ -54,16 +54,16 @@ const chatbots = [
         descricao: "Para todos os fãs de jogos digitais, ou jogos classicos! Teste o chatbot que te leva para os espaço dos games 🎮 e o mundo dos jogos 🪐",
         link: "https://chatbot-vagner.vercel.app/" 
     },
-    {
-        nome: "Nome do Bot",
-        descricao: "Descrição .",
-        link: "https://vitrine-chatbots.vercel.app/" 
-    },
-    {
-        nome: "Nome do Bot",
-        descricao: "Descrição .",
-        link: "https://vitrine-chatbots.vercel.app/" 
-    }
+   // {
+    //    nome: "Nome do Bot",
+    //    descricao: "Descrição .",
+    //    link: "https://vitrine-chatbots.vercel.app/" 
+   // },
+   // {
+   //     nome: "Nome do Bot",
+   //     descricao: "Descrição .",
+    //    link: "https://vitrine-chatbots.vercel.app/" 
+    //}
     // Adicione os dados de outros chatbots aqui...
 ];
 
