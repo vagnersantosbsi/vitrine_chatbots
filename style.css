@@ -13,6 +13,12 @@ h1 {
     color: #333;
 }
 
+.header-container {
+    background-color: #fff; /* Cor de fundo branca para contraste */
+    padding: 30px; /* Espaço interno */
+    text-align: center; /* Centraliza o conteúdo */
+}
+
 .chatbot-container {
     display: flex;
     flex-wrap: wrap;
