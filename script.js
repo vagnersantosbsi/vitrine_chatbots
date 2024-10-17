@@ -35,6 +35,12 @@ const chatbots = [
         link: "https://charming-medovik-c08e3d.netlify.app/" 
     },
     {
+        nome: "NeuroChat",
+        descricao: "Este chatbot é projetado para fornecer informações sobre condições neurológicas, sintomas e tratamentos.",
+        link: "https://neurochat000.netlify.app/" 
+    },
+    
+    {
         nome: "BotNoGenius",
         descricao: "O chat bot  é um software baseado em uma Inteligência Artificial criado para responder perguntas, fornecer explicação medica e ajudar os usuarios, facilitando a vida atraves de uma conversa por texto em tempo.",
         link: "  https://gemili.vercel.app/" 
@@ -54,11 +60,11 @@ const chatbots = [
         descricao: "Para todos os fãs de jogos digitais, ou jogos classicos! Teste o chatbot que te leva para os espaço dos games 🎮 e o mundo dos jogos 🪐",
         link: "https://chatbot-vagner.vercel.app/" 
     },
-   // {
-    //    nome: "Nome do Bot",
-    //    descricao: "Descrição .",
-    //    link: "https://vitrine-chatbots.vercel.app/" 
-   // },
+    {
+        nome: "Zé do Chat",
+        descricao: "Descrição do Chatbot .",
+        link: "https://chatbot-ze.vercel.app/chatbot.html" 
+    },
    // {
    //     nome: "Nome do Bot",
    //     descricao: "Descrição .",
