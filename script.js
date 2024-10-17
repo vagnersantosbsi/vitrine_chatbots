@@ -22,7 +22,7 @@ const chatbots = [
     {
         nome: "ChatCar",
         descricao: "Este é um Chatbot sobre o cenário automotivo atual, basta perguntar que ele o responderá sobre os mais diversos assuntos do automobilismo 🏎️🏎️🏍️🏍️🚀🚀✈️🏁🏁",
-        link: "chatgpt4-orcin-nine.vercel.app" 
+        link: "https://chatgpt4-orcin-nine.vercel.app/" 
     },
     {
         nome: "ConectaBot",
