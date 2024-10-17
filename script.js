@@ -65,11 +65,11 @@ const chatbots = [
         descricao: "Descrição do Chatbot .",
         link: "https://chatbot-ze.vercel.app/chatbot.html" 
     },
-   // {
-   //     nome: "Nome do Bot",
-   //     descricao: "Descrição .",
-    //    link: "https://vitrine-chatbots.vercel.app/" 
-    //}
+    {
+        nome: "ChatNoGenius ",
+        descricao: "Descrição do chatbot .",
+        link: "https://gemili.vercel.app/" 
+    }
     // Adicione os dados de outros chatbots aqui...
 ];
 
