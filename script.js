@@ -2,7 +2,7 @@ const chatbots = [
     {
         nome: "FutebolGenius",
         descricao: "Transforme sua paixão pelo futebol com FutebolGenius, seu assistente inteligente que traz análises, estatísticas e dicas para elevar seu conhecimento sobre Futebol!!!",
-        link: "https://google-ia-vagner.vercel.app/" 
+        link: "https://futebolgenius.vercel.app/" 
     },
     {
         nome: "CODEAI",
