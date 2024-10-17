@@ -69,6 +69,11 @@ const chatbots = [
         nome: "ChatNoGenius ",
         descricao: "Descrição do chatbot .",
         link: "https://gemili.vercel.app/" 
+    },
+    {
+        nome: "Dr. Bot",
+        descricao: "Descrição do chatbot .",
+        link: "https://bucolic-tarsier-2af284.netlify.app/" 
     }
     // Adicione os dados de outros chatbots aqui...
 ];
