@@ -19,7 +19,7 @@ h1 {
     text-align: center; /* Centraliza o conteúdo */
 }
 
-.header-container h1, .header-container p {
+.header-container h1, .header-container h2, .header-container p {
     color: #fff; /* Texto branco */
 }
 .chatbot-container {
