@@ -30,11 +30,6 @@ const chatbots = [
         link: "https://2309mongo.vercel.app/" 
     },
     {
-        nome: "NeuroAssist",
-        descricao: "Este chatbot é projetado para fornecer informações sobre condições neurológicas, sintomas e tratamentos.",
-        link: "https://charming-medovik-c08e3d.netlify.app/" 
-    },
-    {
         nome: "NeuroChat",
         descricao: "Este chatbot é projetado para fornecer informações sobre condições neurológicas, sintomas e tratamentos.",
         link: "https://neurochat000.netlify.app/" 
@@ -74,6 +69,11 @@ const chatbots = [
         nome: "Dr. Bot",
         descricao: "Descrição do chatbot .",
         link: "https://bucolic-tarsier-2af284.netlify.app/" 
+    },
+    {
+        nome: "Amiras-Make",
+        descricao: "Chatbot que possibilita a maior acessibilidade, respondendo suas dúvidas sobre os produtos de maquiagem disponíveis na loja e sua forma de uso.",
+        link: "https://chatbot-omega-one.vercel.app/ai.html" 
     }
     // Adicione os dados de outros chatbots aqui...
 ];
