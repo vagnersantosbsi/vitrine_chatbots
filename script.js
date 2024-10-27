@@ -74,6 +74,11 @@ const chatbots = [
         nome: "Amiras-Make",
         descricao: "Chatbot que possibilita a maior acessibilidade, respondendo suas dúvidas sobre os produtos de maquiagem disponíveis na loja e sua forma de uso.",
         link: "https://chatbot-omega-one.vercel.app/ai.html" 
+    },
+    {
+        nome: "BotCalc",
+        descricao: "Um chatbot para auxiliar em seus problemas matemáticos, da forma mais simplificada possível.",
+        link: "https://bot-calc-azsv.vercel.app/" 
     }
     // Adicione os dados de outros chatbots aqui...
 ];
